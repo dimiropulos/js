@@ -31,7 +31,3 @@ else if (clock >= 21 && clock <= 23) {
 else if (clock >= 00) {
     alert(`Сейчас ${clock} полночь`)
 }
-
-
-
-    
